@@ -2,6 +2,11 @@
 
 esx drone to QBCore 🥴🥴😁😁
 
+make sure to ensure all and add item in the qb-core name it "drone"
+
+
+*
+
 video : https://www.youtube.com/watch?v=2e8hAcyCS7o
 
 *
