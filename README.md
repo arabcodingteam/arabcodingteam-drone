@@ -2,7 +2,7 @@
 
 esx drone to QBCore 🥴🥴😁😁
 
-make sure to ensure all and add item in the qb-core name it "drone"
+make sure to ensure all scripts and add item in the qb-core name it "drone"
 
 
 *
