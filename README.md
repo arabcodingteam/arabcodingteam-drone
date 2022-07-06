@@ -12,6 +12,10 @@ video : https://www.youtube.com/watch?v=2e8hAcyCS7o
 *
 
 make sure to start all the files
+```
+	['drone'] 			 	 	 	 = {['name'] = 'drone', 			  			['label'] = 'drone', 					['weight'] = 500, 		['type'] = 'item', 		['image'] = 'drone.png', 				['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'I like drone'},
+
+```
 
 *
 
